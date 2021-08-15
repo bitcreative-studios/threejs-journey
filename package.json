@@ -1,0 +1,29 @@
+{
+  "name": "threejs-journey",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitwhys/threejs-journey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bitwhys/threejs-journey/issues"
+  },
+  "homepage": "https://github.com/bitwhys/threejs-journey#readme",
+  "description": ""
+}
